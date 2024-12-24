@@ -1,3 +1,7 @@
+#estas son todas las operaciones ue se pueden hacer en python en las cuales estan suma restas multiplicacion division 
+#comparadores y seguimiento bit a bit
+
+
 # Definimos dos variables numéricas
 num1 = 10
 num2 = 3
