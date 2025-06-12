@@ -1,4 +1,4 @@
-# 🐍 Curso Python Builders
+# 🐍 Curso Python de pildoras de programacion
 
 ---
 
