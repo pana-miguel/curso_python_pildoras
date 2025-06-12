@@ -1,1 +1,0 @@
-este es un repositorio para codigo o comandos de Python desde cero
